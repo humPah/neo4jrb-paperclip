@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |gem|
   gem.name        = 'neo4jrb-paperclip'
-  gem.version     = '0.0.1'
+  gem.version     = '1.0'
   gem.platform    = "jruby"
   gem.authors     = 'Leo Lou (Matias Partanen)'
   gem.email       = 'louyuhong@gmail.com'
