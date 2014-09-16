@@ -1,9 +1,8 @@
 # encoding: utf-8
 
 Gem::Specification.new do |gem|
-
   gem.name        = 'neo4jrb-paperclip'
-  gem.version     = '0.0.1.1'
+  gem.version     = '0.0.1'
   gem.platform    = "jruby"
   gem.authors     = 'Leo Lou (Matias Partanen)'
   gem.email       = 'louyuhong@gmail.com'
@@ -16,5 +15,4 @@ Gem::Specification.new do |gem|
   gem.require_path  = 'lib'
 
   gem.add_dependency 'paperclip', ['~> 4.2.0']
-
 end
